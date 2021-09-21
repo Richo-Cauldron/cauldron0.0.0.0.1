@@ -1,0 +1,6 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components'; 
+@import 'tall-theme.css'; 
+@import 'tailwindcss/utilities';
+
+/* omit .css if using sass. Also check out optional css ??? */
